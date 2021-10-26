@@ -17,7 +17,9 @@ Pré requisitos:
 #### Configurar o framework Serverless
 ```$ npm i -g serverless```
 
-###Deploy
+### Deploy
 Para fazer o deploy execute o comando:
-cd dio-lab-serverless
+
+```$ cd dio-lab-serverless```
+
 ```$ serverless deploy -v ```
